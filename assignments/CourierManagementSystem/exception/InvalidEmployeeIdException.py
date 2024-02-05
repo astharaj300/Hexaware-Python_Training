@@ -1,3 +1,0 @@
-
-class InvalidEmployeeIdException(Exception):
-    pass
